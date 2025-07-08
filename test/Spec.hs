@@ -1,4 +1,3 @@
--- src/Tests.hs 
 module Tests (tests) where
 
 import Test.Tasty

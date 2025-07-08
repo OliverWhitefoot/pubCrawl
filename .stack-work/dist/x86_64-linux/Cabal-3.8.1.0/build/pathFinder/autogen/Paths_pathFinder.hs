@@ -43,7 +43,7 @@ getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir :: 
 
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 bindir     = "/dcs/24/u5599048/pubCrawler/pathFinder/.stack-work/install/x86_64-linux/31194de76ce1a309f2305a1c5cb55601f8d8f07919e37fb9d97060b96de670b5/9.4.8/bin"
-libdir     = "/dcs/24/u5599048/pubCrawler/pathFinder/.stack-work/install/x86_64-linux/31194de76ce1a309f2305a1c5cb55601f8d8f07919e37fb9d97060b96de670b5/9.4.8/lib/x86_64-linux-ghc-9.4.8/pathFinder-0.1.0.0-5WgvDwIzYtVKIIaHMdn6Gi-pathFinder"
+libdir     = "/dcs/24/u5599048/pubCrawler/pathFinder/.stack-work/install/x86_64-linux/31194de76ce1a309f2305a1c5cb55601f8d8f07919e37fb9d97060b96de670b5/9.4.8/lib/x86_64-linux-ghc-9.4.8/pathFinder-0.1.0.0-4fshTj7hHlVFS4a4H2FxcF-pathFinder"
 dynlibdir  = "/dcs/24/u5599048/pubCrawler/pathFinder/.stack-work/install/x86_64-linux/31194de76ce1a309f2305a1c5cb55601f8d8f07919e37fb9d97060b96de670b5/9.4.8/lib/x86_64-linux-ghc-9.4.8"
 datadir    = "/dcs/24/u5599048/pubCrawler/pathFinder/.stack-work/install/x86_64-linux/31194de76ce1a309f2305a1c5cb55601f8d8f07919e37fb9d97060b96de670b5/9.4.8/share/x86_64-linux-ghc-9.4.8/pathFinder-0.1.0.0"
 libexecdir = "/dcs/24/u5599048/pubCrawler/pathFinder/.stack-work/install/x86_64-linux/31194de76ce1a309f2305a1c5cb55601f8d8f07919e37fb9d97060b96de670b5/9.4.8/libexec/x86_64-linux-ghc-9.4.8/pathFinder-0.1.0.0"
